@@ -1,0 +1,1189 @@
+{
+  "date": "2026-10-29",
+  "stock_confirmation": "Victor confirmou com Suélen o estoque dos 118 produtos anteriormente fora do catálogo.",
+  "original_product_count": 71,
+  "added_product_count": 118,
+  "final_product_count": 189,
+  "products": [
+    {
+      "id": "HEERA-0072",
+      "control_id": "HEERA-0072",
+      "name": "Esmalte em Gel Viziata Ragazza 108",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0072.webp",
+      "source_file_id": "1oLK5zBGGfGjolH6iGuoP6dVnO0y6luEM",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-108.jpg"
+    },
+    {
+      "id": "HEERA-0073",
+      "control_id": "HEERA-0073",
+      "name": "Esmalte em Gel Viziata Ragazza 105",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0073.webp",
+      "source_file_id": "10SIrSYmtT0XT5qASwfi-5gYudAaXfeew",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-105.jpg"
+    },
+    {
+      "id": "HEERA-0074",
+      "control_id": "HEERA-0074",
+      "name": "Esmalte em Gel Viziata Ragazza 106",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0074.webp",
+      "source_file_id": "1FMvRZLv6yPDBqd1Um1CpfMFSAEDxHuwx",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-106.jpg"
+    },
+    {
+      "id": "HEERA-0075",
+      "control_id": "HEERA-0075",
+      "name": "Esmalte em Gel Viziata Ragazza 103",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0075.webp",
+      "source_file_id": "1RSNORviagbSa8oPGENoUhuiV7Plx7iHA",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-103.jpg"
+    },
+    {
+      "id": "HEERA-0076",
+      "control_id": "HEERA-0076",
+      "name": "Esmalte em Gel Viziata Ragazza 102",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0076.webp",
+      "source_file_id": "1dfXsKDJTus1verd8TCzGDMW50vsdjzIS",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-102.jpg"
+    },
+    {
+      "id": "HEERA-0077",
+      "control_id": "HEERA-0077",
+      "name": "Esmalte em Gel Viziata Ragazza 098",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0077.webp",
+      "source_file_id": "1lTQX7tQevaHPgKJzOSluA2hnQuWskNQj",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-098.jpg"
+    },
+    {
+      "id": "HEERA-0078",
+      "control_id": "HEERA-0078",
+      "name": "Esmalte em Gel Viziata Ragazza 097",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0078.webp",
+      "source_file_id": "13KC91QqJYqx58AxmsI8Uhvzp82SvB17c",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-097.jpg"
+    },
+    {
+      "id": "HEERA-0079",
+      "control_id": "HEERA-0079",
+      "name": "Esmalte em Gel Viziata Ragazza 096",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0079.webp",
+      "source_file_id": "1ZAgEyxmS1CqdwvseG2AuisJhDpwstSPK",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-096.jpg"
+    },
+    {
+      "id": "HEERA-0080",
+      "control_id": "HEERA-0080",
+      "name": "Esmalte em Gel Viziata Ragazza 095",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0080.webp",
+      "source_file_id": "1uJYd4gqKEAItaeXuksC_-IiLy4O8W1MG",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-095.jpg"
+    },
+    {
+      "id": "HEERA-0081",
+      "control_id": "HEERA-0081",
+      "name": "Esmalte em Gel Viziata Ragazza 092",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0081.webp",
+      "source_file_id": "1F699YIp02NZUF9LbS6E8ZIoJoH6tPsGU",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-092.jpg"
+    },
+    {
+      "id": "HEERA-0082",
+      "control_id": "HEERA-0082",
+      "name": "Esmalte em Gel Viziata Ragazza 093",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0082.webp",
+      "source_file_id": "1vExkP39emxWMPwOp0EgWusNiJlZH6WAp",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-093.jpg"
+    },
+    {
+      "id": "HEERA-0083",
+      "control_id": "HEERA-0083",
+      "name": "Esmalte em Gel Viziata Ragazza 091",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0083.webp",
+      "source_file_id": "1DzD8Rd9VFyIXxFOZAoxDslHbQekY7Z3B",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-091.jpg"
+    },
+    {
+      "id": "HEERA-0084",
+      "control_id": "HEERA-0084",
+      "name": "Esmalte em Gel Viziata Ragazza 094",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0084.webp",
+      "source_file_id": "1taHYRarvyx7pmhf_FMUUsjJREqcfeRhz",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-ragazza-094.jpg"
+    },
+    {
+      "id": "HEERA-0085",
+      "control_id": "HEERA-0085",
+      "name": "Esmalte em Gel Viziata Splendore 084",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0085.webp",
+      "source_file_id": "1np9XDCSELw0AM1N63t5NfkUbNdBpUmQb",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-splendore-084.jpg"
+    },
+    {
+      "id": "HEERA-0086",
+      "control_id": "HEERA-0086",
+      "name": "Esmalte em Gel Viziata Splendore 083",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0086.webp",
+      "source_file_id": "1bC3j82b7OOXK8jo1SwoMraKDjR9rCqbm",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-splendore-083.jpg"
+    },
+    {
+      "id": "HEERA-0087",
+      "control_id": "HEERA-0087",
+      "name": "Esmalte em Gel Viziata Splendore 082",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0087.webp",
+      "source_file_id": "1iPdQQmdOwXU8OIYAzc9tNHtF6WL5whZP",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-splendore-082.jpg"
+    },
+    {
+      "id": "HEERA-0088",
+      "control_id": "HEERA-0088",
+      "name": "Esmalte em Gel Viziata Splendore 081",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0088.webp",
+      "source_file_id": "1AIBLCzX25DOrALu-fZYS8dpzNdS65WGt",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-splendore-081.jpg"
+    },
+    {
+      "id": "HEERA-0089",
+      "control_id": "HEERA-0089",
+      "name": "Esmalte em Gel Viziata Splendore 080",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0089.webp",
+      "source_file_id": "1SbRLJA4XKzOKhBJRKSHXvmFYvpOKhxtG",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-splendore-080.jpg"
+    },
+    {
+      "id": "HEERA-0090",
+      "control_id": "HEERA-0090",
+      "name": "Esmalte em Gel Viziata Lusso 135",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0090.webp",
+      "source_file_id": "1bMdXcwH_aXulUzYVzy9yR09qusrGzTpN",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-135.jpg"
+    },
+    {
+      "id": "HEERA-0091",
+      "control_id": "HEERA-0091",
+      "name": "Esmalte em Gel Viziata Lusso 136",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0091.webp",
+      "source_file_id": "1QO5sgaKmmG2cxC6SQprNRA_UQgxUetEQ",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-136.jpg"
+    },
+    {
+      "id": "HEERA-0092",
+      "control_id": "HEERA-0092",
+      "name": "Esmalte em Gel Viziata Lusso 133",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0092.webp",
+      "source_file_id": "1tqScMIxIiRmkeIpj0G7RRVX7BYZS8Ru_",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-133.jpg"
+    },
+    {
+      "id": "HEERA-0093",
+      "control_id": "HEERA-0093",
+      "name": "Esmalte em Gel Viziata Lusso 134",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0093.webp",
+      "source_file_id": "1yB3YH2PdEdvHtxX345H9zALc7UF-nDGY",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-134.jpg"
+    },
+    {
+      "id": "HEERA-0094",
+      "control_id": "HEERA-0094",
+      "name": "Esmalte em Gel Viziata Lusso 132",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0094.webp",
+      "source_file_id": "1m6Jpq_sKWtiHMSfSV69ukGX3JjvGeYQx",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-132.jpg"
+    },
+    {
+      "id": "HEERA-0095",
+      "control_id": "HEERA-0095",
+      "name": "Esmalte em Gel Viziata Lusso 139",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0095.webp",
+      "source_file_id": "1xC70-uw2MneOA1zGBFmis6wV3sRw9v4h",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-139.jpg"
+    },
+    {
+      "id": "HEERA-0096",
+      "control_id": "HEERA-0096",
+      "name": "Esmalte em Gel Viziata Lusso 138",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0096.webp",
+      "source_file_id": "1o3PMstHuisDWk9wYjhGQDL2wkWDdIc5r",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-lusso-138.jpg"
+    },
+    {
+      "id": "HEERA-0097",
+      "control_id": "HEERA-0097",
+      "name": "Esmalte em Gel Viziata Macarons 155",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0097.webp",
+      "source_file_id": "1Cg5rpJf0uudkVz5MHWFeFGaKKRbizmMw",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-macarons-155.jpg"
+    },
+    {
+      "id": "HEERA-0098",
+      "control_id": "HEERA-0098",
+      "name": "Esmalte em Gel Viziata Macarons 154",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0098.webp",
+      "source_file_id": "1khuYj0gnvaHa6kzKznR4hBfqF_sSnZyk",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-macarons-154.jpg"
+    },
+    {
+      "id": "HEERA-0099",
+      "control_id": "HEERA-0099",
+      "name": "Esmalte em Gel Viziata Macarons 150",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0099.webp",
+      "source_file_id": "1yzshtwFtXNzKBNUjw8qWf7Y1YX0Clk6B",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-macarons-150.jpg"
+    },
+    {
+      "id": "HEERA-0100",
+      "control_id": "HEERA-0100",
+      "name": "Esmalte em Gel Viziata Macarons 153",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0100.webp",
+      "source_file_id": "1lBjfRbiPtXOjoObVViG4JCnT-j0JtiBr",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-macarons-153.jpg"
+    },
+    {
+      "id": "HEERA-0101",
+      "control_id": "HEERA-0101",
+      "name": "Esmalte em Gel Viziata Macarons 151",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0101.webp",
+      "source_file_id": "1-qn7WiW-_wZFmMWrnwKNb5nKxSQfci20",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-macarons-151.jpg"
+    },
+    {
+      "id": "HEERA-0102",
+      "control_id": "HEERA-0102",
+      "name": "Gel Nivelador Viziata Liquid Builder 010 15ml",
+      "brand": "Viziata",
+      "category": "Géis niveladores",
+      "image": "assets/imagens/produtos/heera-0102.webp",
+      "source_file_id": "1pBfVcsltw6f9LVhfWA5fEWaH9bF156zs",
+      "source_file_name": "Viziata-Nails-Gel-Nivelador-Liquid-Builder-010-15ml-.jpg"
+    },
+    {
+      "id": "HEERA-0103",
+      "control_id": "HEERA-0103",
+      "name": "Esmalte em Gel Viziata Latte 048",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0103.webp",
+      "source_file_id": "1OszZvYoZaCFPKj8FiPrL_vxgjd4FA642",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-048.jpg"
+    },
+    {
+      "id": "HEERA-0104",
+      "control_id": "HEERA-0104",
+      "name": "Esmalte em Gel Viziata Latte 047",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0104.webp",
+      "source_file_id": "1iyj-iGl8p9mkykyO0dpYvFIxcZEnDGn9",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-047.jpg"
+    },
+    {
+      "id": "HEERA-0105",
+      "control_id": "HEERA-0105",
+      "name": "Esmalte em Gel Viziata Latte 040",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0105.webp",
+      "source_file_id": "10IzkdM9noeg1-kZQKlSdhDQt89ICrfrs",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-040.jpg"
+    },
+    {
+      "id": "HEERA-0106",
+      "control_id": "HEERA-0106",
+      "name": "Esmalte em Gel Viziata Latte 043",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0106.webp",
+      "source_file_id": "16DgXPjdXUFxjVnwZNeLUzEuBygMd7E5B",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-043.jpg"
+    },
+    {
+      "id": "HEERA-0107",
+      "control_id": "HEERA-0107",
+      "name": "Esmalte em Gel Viziata Latte 044",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0107.webp",
+      "source_file_id": "1XM_M9rpTUJt28OCaBVK1fBndjjTKqMuo",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-044.jpg"
+    },
+    {
+      "id": "HEERA-0108",
+      "control_id": "HEERA-0108",
+      "name": "Esmalte em Gel Viziata Latte 046",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0108.webp",
+      "source_file_id": "1Bv4es_PSLsaJl9IlLVY3beBzUHpor2Ew",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-046.jpg"
+    },
+    {
+      "id": "HEERA-0109",
+      "control_id": "HEERA-0109",
+      "name": "Esmalte em Gel Viziata Latte 045",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0109.webp",
+      "source_file_id": "1GyTuKJ8yRfFy0jljb0SqU3K7_b3Qjz69",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-latte-045.jpg"
+    },
+    {
+      "id": "HEERA-0110",
+      "control_id": "HEERA-0110",
+      "name": "Esmalte em Gel Viziata Illuminatum 149",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0110.webp",
+      "source_file_id": "12cMH6aKEZEe7_Pr1Ls0DvTCnLOZw7usH",
+      "source_file_name": "DÚVIDA-esmalte-em-gel-viziata-nails-coleção-illuminatum-149.jpg"
+    },
+    {
+      "id": "HEERA-0111",
+      "control_id": "HEERA-0111",
+      "name": "Esmalte em Gel Viziata Illuminatum 146",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0111.webp",
+      "source_file_id": "12WFe4ZPc4HheeAJ-HqClacYkP_EZyvzF",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-146.jpg"
+    },
+    {
+      "id": "HEERA-0112",
+      "control_id": "HEERA-0112",
+      "name": "Esmalte em Gel Viziata Illuminatum 148",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0112.webp",
+      "source_file_id": "1-TDWXEES7iFYKC1bt35oO5POlUtZLPJu",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-148.jpg"
+    },
+    {
+      "id": "HEERA-0113",
+      "control_id": "HEERA-0113",
+      "name": "Esmalte em Gel Viziata Illuminatum 147",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0113.webp",
+      "source_file_id": "1-3R-berhDADN_w3av-Q5o71JBPR-tsTX",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-147.jpg"
+    },
+    {
+      "id": "HEERA-0114",
+      "control_id": "HEERA-0114",
+      "name": "Esmalte em Gel Viziata Illuminatum 145",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0114.webp",
+      "source_file_id": "1XfTCOBkA3FVTb6GBdCYSBcLLiAYa2Pgt",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-145.jpg"
+    },
+    {
+      "id": "HEERA-0115",
+      "control_id": "HEERA-0115",
+      "name": "Esmalte em Gel Viziata Illuminatum 143",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0115.webp",
+      "source_file_id": "1xYU7NAwCRdpiAPVjwexSVEhtRyhfjHH2",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-143.jpg"
+    },
+    {
+      "id": "HEERA-0116",
+      "control_id": "HEERA-0116",
+      "name": "Esmalte em Gel Viziata Illuminatum 141",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0116.webp",
+      "source_file_id": "1tCZX7WoGEw-ysdPw1QsyMbJzp6keqDyu",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-141.jpg"
+    },
+    {
+      "id": "HEERA-0117",
+      "control_id": "HEERA-0117",
+      "name": "Esmalte em Gel Viziata Illuminatum 144",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0117.webp",
+      "source_file_id": "166wjs4L_ynM48Gpefn9Vnrk3N5VUjytU",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-144.jpg"
+    },
+    {
+      "id": "HEERA-0118",
+      "control_id": "HEERA-0118",
+      "name": "Esmalte em Gel Viziata Illuminatum 142",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0118.webp",
+      "source_file_id": "1W7gB6QwK3jxAe4cP6RSCmIZUZu9Vy4_q",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-illuminatum-142.jpg"
+    },
+    {
+      "id": "HEERA-0119",
+      "control_id": "HEERA-0119",
+      "name": "Esmalte em Gel Viziata Dolce 027",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0119.webp",
+      "source_file_id": "1yMKFmdoNA2Z6IN9nT_Ij-Z-s5y3G879I",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-dolce-027.jpg"
+    },
+    {
+      "id": "HEERA-0120",
+      "control_id": "HEERA-0120",
+      "name": "Esmalte em Gel Viziata Dolce 026",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0120.webp",
+      "source_file_id": "17agmR_KNn8T4MOF9Zya3l8gSA4YQt1Sh",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-dolce-026.jpg"
+    },
+    {
+      "id": "HEERA-0121",
+      "control_id": "HEERA-0121",
+      "name": "Esmalte em Gel Viziata Dolce 022",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0121.webp",
+      "source_file_id": "1mBdmXScZjWwcariR9x5LWg76vw_0dl7p",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-dolce-022.jpg"
+    },
+    {
+      "id": "HEERA-0122",
+      "control_id": "HEERA-0122",
+      "name": "Esmalte em Gel Viziata Dolce 021",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0122.webp",
+      "source_file_id": "1E-wF-IoSQsupvPEfQ1ij_l6oIXRR0t4X",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-dolce-021.jpg"
+    },
+    {
+      "id": "HEERA-0123",
+      "control_id": "HEERA-0123",
+      "name": "Esmalte em Gel Viziata Dolce 025",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0123.webp",
+      "source_file_id": "1ozveG2UcudWhzGUd36JQSPftJYvCW7ce",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-dolce-025.jpg"
+    },
+    {
+      "id": "HEERA-0124",
+      "control_id": "HEERA-0124",
+      "name": "Esmalte em Gel Viziata Dolce 020",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0124.webp",
+      "source_file_id": "1K5OwdeCuug4SGSohK3SInVPLQNR173qU",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-dolce-020.jpg"
+    },
+    {
+      "id": "HEERA-0125",
+      "control_id": "HEERA-0125",
+      "name": "Esmalte em Gel Viziata Cioccolato 118",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0125.webp",
+      "source_file_id": "1ywehZvrUbUXWZpsD1AygJnqbij7FzBYg",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-118.jpg"
+    },
+    {
+      "id": "HEERA-0126",
+      "control_id": "HEERA-0126",
+      "name": "Esmalte em Gel Viziata Cioccolato 119",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0126.webp",
+      "source_file_id": "1X9acFdYnk7UCPjberbRJw3dbk2g0W5N2",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-119.jpg"
+    },
+    {
+      "id": "HEERA-0127",
+      "control_id": "HEERA-0127",
+      "name": "Esmalte em Gel Viziata Cioccolato 115",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0127.webp",
+      "source_file_id": "1kiWUOl1Q44WiS6aLtP-ZnyeSeXhMAlek",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-115.jpg"
+    },
+    {
+      "id": "HEERA-0128",
+      "control_id": "HEERA-0128",
+      "name": "Esmalte em Gel Viziata Cioccolato 114",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0128.webp",
+      "source_file_id": "1TUCNlXkoVfsVkifwCRSbrxOX3FqqEveL",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-114.jpg"
+    },
+    {
+      "id": "HEERA-0129",
+      "control_id": "HEERA-0129",
+      "name": "Esmalte em Gel Viziata Cioccolato 112",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0129.webp",
+      "source_file_id": "179BSIulk4DRIzrLksMS-qOgCkt-x6kfM",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-112.jpg"
+    },
+    {
+      "id": "HEERA-0130",
+      "control_id": "HEERA-0130",
+      "name": "Esmalte em Gel Viziata Cioccolato 113",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0130.webp",
+      "source_file_id": "1N1-NgmTiBDmtjRXMU56KOH9ZQztrkfiR",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-113.jpg"
+    },
+    {
+      "id": "HEERA-0131",
+      "control_id": "HEERA-0131",
+      "name": "Esmalte em Gel Viziata Cioccolato 111",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0131.webp",
+      "source_file_id": "11fxuVFgKXRWFg9Exdj9jWNAcZQ1-Y9-0",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-cioccolato-111.jpg"
+    },
+    {
+      "id": "HEERA-0132",
+      "control_id": "HEERA-0132",
+      "name": "Esmalte em Gel Viziata Essenziale 176",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0132.webp",
+      "source_file_id": "1IjdQZ_GxI7wn3A4n_OBXP2LY9lj5Eh9m",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-176.jpg"
+    },
+    {
+      "id": "HEERA-0133",
+      "control_id": "HEERA-0133",
+      "name": "Esmalte em Gel Viziata Essenziale 175",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0133.webp",
+      "source_file_id": "1WZuV41ISPiu6q6KfagNb7DcYfbU_Go8H",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-175.jpg"
+    },
+    {
+      "id": "HEERA-0134",
+      "control_id": "HEERA-0134",
+      "name": "Esmalte em Gel Viziata Essenziale 174",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0134.webp",
+      "source_file_id": "1cyP76vvARH_zsDa0Jce8XPDEyYiZzpUD",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-174.jpg"
+    },
+    {
+      "id": "HEERA-0135",
+      "control_id": "HEERA-0135",
+      "name": "Esmalte em Gel Viziata Essenziale 171",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0135.webp",
+      "source_file_id": "1j1L5kxgzARvMJJzzFD89aG-89U0lK1Z7",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-171.jpg"
+    },
+    {
+      "id": "HEERA-0136",
+      "control_id": "HEERA-0136",
+      "name": "Esmalte em Gel Viziata Essenziale 172",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0136.webp",
+      "source_file_id": "1-klQ11N1_4pNxp-VtHRY30puNzLN_6zz",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-172.jpg"
+    },
+    {
+      "id": "HEERA-0137",
+      "control_id": "HEERA-0137",
+      "name": "Esmalte em Gel Viziata Essenziale 173",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0137.webp",
+      "source_file_id": "1jkkzdvO96BHIMyqomwIHkskWOkyChb44",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-173.jpg"
+    },
+    {
+      "id": "HEERA-0138",
+      "control_id": "HEERA-0138",
+      "name": "Esmalte em Gel Viziata Essenziale 170",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0138.webp",
+      "source_file_id": "1btBwlEfY_qe985TKsMc3wpz8iRzkdJrz",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-essenziale-170.jpg"
+    },
+    {
+      "id": "HEERA-0139",
+      "control_id": "HEERA-0139",
+      "name": "Esmalte em Gel Viziata Delicato 056",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0139.webp",
+      "source_file_id": "1p3foC7WpwTmEKcX5EOB2dFNbXG-jjz1z",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-056.jpg"
+    },
+    {
+      "id": "HEERA-0140",
+      "control_id": "HEERA-0140",
+      "name": "Esmalte em Gel Viziata Delicato 057",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0140.webp",
+      "source_file_id": "1veLvj3J_o74xddWZsJvlvWzPHXtffH5m",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-057.jpg"
+    },
+    {
+      "id": "HEERA-0141",
+      "control_id": "HEERA-0141",
+      "name": "Esmalte em Gel Viziata Delicato 053",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0141.webp",
+      "source_file_id": "1ho7gbh0s9fo_gGRqmxyTRbYSYU_j8aEP",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-053.jpg"
+    },
+    {
+      "id": "HEERA-0142",
+      "control_id": "HEERA-0142",
+      "name": "Esmalte em Gel Viziata Delicato 055",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0142.webp",
+      "source_file_id": "1qMj7c6rlRdutD6QacB9phxHGVGs7CFC-",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-055.jpg"
+    },
+    {
+      "id": "HEERA-0143",
+      "control_id": "HEERA-0143",
+      "name": "Esmalte em Gel Viziata Delicato 054",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0143.webp",
+      "source_file_id": "1fMepz2JqTMMRraJ6Gmzn0rE9ekl-h5Sv",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-054.jpg"
+    },
+    {
+      "id": "HEERA-0144",
+      "control_id": "HEERA-0144",
+      "name": "Esmalte em Gel Viziata Delicato 050",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0144.webp",
+      "source_file_id": "1jqnM5mn3Bc4cQY77SowNI7fqqO__-uj5",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-050.jpg"
+    },
+    {
+      "id": "HEERA-0145",
+      "control_id": "HEERA-0145",
+      "name": "Esmalte em Gel Viziata Delicato 051",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0145.webp",
+      "source_file_id": "1ZHF453o7Z6KCx02OVu-84X8HzzeqKoUf",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-delicato-051.jpg"
+    },
+    {
+      "id": "HEERA-0146",
+      "control_id": "HEERA-0146",
+      "name": "Esmalte em Gel Viziata Gelato 067",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0146.webp",
+      "source_file_id": "1CpBmjhEpW-bjmttf61cZq0S3hn051snJ",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-067.jpg"
+    },
+    {
+      "id": "HEERA-0147",
+      "control_id": "HEERA-0147",
+      "name": "Esmalte em Gel Viziata Gelato 068",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0147.webp",
+      "source_file_id": "1lH6YYSzxLWNhWuY_oCZKtttabEaPmSh_",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-068.jpg"
+    },
+    {
+      "id": "HEERA-0148",
+      "control_id": "HEERA-0148",
+      "name": "Esmalte em Gel Viziata Gelato 063",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0148.webp",
+      "source_file_id": "1mtcpg7MovoaDFS2rXGonKffXccgj3YFZ",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-063.jpg"
+    },
+    {
+      "id": "HEERA-0149",
+      "control_id": "HEERA-0149",
+      "name": "Esmalte em Gel Viziata Gelato 064",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0149.webp",
+      "source_file_id": "176_p2fghGHInzZn1THST8Vyt4K06x8t8",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-064.jpg"
+    },
+    {
+      "id": "HEERA-0150",
+      "control_id": "HEERA-0150",
+      "name": "Esmalte em Gel Viziata Gelato 066",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0150.webp",
+      "source_file_id": "1e1z2nqHQNlV7QhwhwNBdqSrpXPAKC6ad",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-066.jpg"
+    },
+    {
+      "id": "HEERA-0151",
+      "control_id": "HEERA-0151",
+      "name": "Esmalte em Gel Viziata Gelato 062",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0151.webp",
+      "source_file_id": "1eya3TRqV3EVAXzgce8vLx0RJVVrT9aNV",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-062.jpg"
+    },
+    {
+      "id": "HEERA-0152",
+      "control_id": "HEERA-0152",
+      "name": "Esmalte em Gel Viziata Gelato 060",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0152.webp",
+      "source_file_id": "1J6RW377BGh0F9lDEEi8S3FkGbqtJ5i5x",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-060.jpg"
+    },
+    {
+      "id": "HEERA-0153",
+      "control_id": "HEERA-0153",
+      "name": "Esmalte em Gel Viziata Gelato 061",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0153.webp",
+      "source_file_id": "19-wt70AW8-FgpXamP5U4PXdspByoj51n",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-gelato-061.jpg"
+    },
+    {
+      "id": "HEERA-0154",
+      "control_id": "HEERA-0154",
+      "name": "Esmalte em Gel Viziata Amazonia 126",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0154.webp",
+      "source_file_id": "1IAcq9FjWC3eXSJ7U6eupQCGETlaJjgC6",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-126.jpg"
+    },
+    {
+      "id": "HEERA-0155",
+      "control_id": "HEERA-0155",
+      "name": "Esmalte em Gel Viziata Amazonia 127",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0155.webp",
+      "source_file_id": "16ciFZz0wRLnl3JIYEFZekw0rBCslz8ie",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-127.jpg"
+    },
+    {
+      "id": "HEERA-0156",
+      "control_id": "HEERA-0156",
+      "name": "Esmalte em Gel Viziata Amazonia 129",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0156.webp",
+      "source_file_id": "1KStcZOwng_BFrPXyRsEc5sUw26Nw_hCo",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-129.jpg"
+    },
+    {
+      "id": "HEERA-0157",
+      "control_id": "HEERA-0157",
+      "name": "Esmalte em Gel Viziata Amazonia 125",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0157.webp",
+      "source_file_id": "1qf10ERpQMsPZjjIkVlkNGNtHi4bs6Y4g",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-125.jpg"
+    },
+    {
+      "id": "HEERA-0158",
+      "control_id": "HEERA-0158",
+      "name": "Esmalte em Gel Viziata Amazonia 128",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0158.webp",
+      "source_file_id": "1KbdocvrtAF-fdusiyUDNhl5WmBJxCz4S",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-128.jpg"
+    },
+    {
+      "id": "HEERA-0159",
+      "control_id": "HEERA-0159",
+      "name": "Esmalte em Gel Viziata Amazonia 121",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0159.webp",
+      "source_file_id": "1LWSOdamqXzeBebPSobs9JPpHQKMcB_Fr",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-121.jpg"
+    },
+    {
+      "id": "HEERA-0160",
+      "control_id": "HEERA-0160",
+      "name": "Esmalte em Gel Viziata Amazonia 120",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0160.webp",
+      "source_file_id": "1m9a0Dmqt5aLil9KNWnLhxWGIzJCLq-x1",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-120 (1).jpg"
+    },
+    {
+      "id": "HEERA-0161",
+      "control_id": "HEERA-0161",
+      "name": "Esmalte em Gel Viziata Amazonia 122",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0161.webp",
+      "source_file_id": "1uoqYDcQiiC-GSjUQ-EOTydDHrWGQDMH7",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-122.jpg"
+    },
+    {
+      "id": "HEERA-0162",
+      "control_id": "HEERA-0162",
+      "name": "Esmalte em Gel Viziata Amazonia 124",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0162.webp",
+      "source_file_id": "10YZH6MsimPiI-Y3eorEFcmGmcRDFBuQb",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-amazonia-124.jpg"
+    },
+    {
+      "id": "HEERA-0163",
+      "control_id": "HEERA-0163",
+      "name": "Esmalte em Gel Viziata Bambina 077",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0163.webp",
+      "source_file_id": "1NKquGGwQ8_C2MlHhk7ws2Q4eIrZtLo7F",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-077.jpg"
+    },
+    {
+      "id": "HEERA-0164",
+      "control_id": "HEERA-0164",
+      "name": "Esmalte em Gel Viziata Bambina 076",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0164.webp",
+      "source_file_id": "1p4vkpmuT8QHvoKbXCAkNmZjGkhctIvvM",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-076.jpg"
+    },
+    {
+      "id": "HEERA-0165",
+      "control_id": "HEERA-0165",
+      "name": "Esmalte em Gel Viziata Bambina 073",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0165.webp",
+      "source_file_id": "1qA9FGS1IgOy8ocICfcLLFyiMB5-ONw8m",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-073.jpg"
+    },
+    {
+      "id": "HEERA-0166",
+      "control_id": "HEERA-0166",
+      "name": "Esmalte em Gel Viziata Bambina 071",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0166.webp",
+      "source_file_id": "1T4JM8_yNu2ELVqillGLrmOTq3JskS0p1",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-071.jpg"
+    },
+    {
+      "id": "HEERA-0167",
+      "control_id": "HEERA-0167",
+      "name": "Esmalte em Gel Viziata Bambina 075",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0167.webp",
+      "source_file_id": "11f5LkorQuMTtHd3-AaWL8Jz0kLWFvTdv",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-075.jpg"
+    },
+    {
+      "id": "HEERA-0168",
+      "control_id": "HEERA-0168",
+      "name": "Esmalte em Gel Viziata Bambina 074",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0168.webp",
+      "source_file_id": "1MWpU5BmYGOwgn4ATGjf1fm9F2ocJmAJE",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-074.jpg"
+    },
+    {
+      "id": "HEERA-0169",
+      "control_id": "HEERA-0169",
+      "name": "Esmalte em Gel Viziata Bambina 072",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0169.webp",
+      "source_file_id": "1GBPFvE2MLdkV2HBevls6Po2x5BRrU9rv",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bambina-072.jpg"
+    },
+    {
+      "id": "HEERA-0170",
+      "control_id": "HEERA-0170",
+      "name": "Esmalte em Gel Viziata Bellissima 036",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0170.webp",
+      "source_file_id": "1857xj57VyBbWbEnWmR-VSDTG5GE4zIdP",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-036-.jpg"
+    },
+    {
+      "id": "HEERA-0171",
+      "control_id": "HEERA-0171",
+      "name": "Esmalte em Gel Viziata Bellissima 039",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0171.webp",
+      "source_file_id": "1mNVUTTI9z26OhuG5s8ESb2U4taVU_GDW",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-039-.jpg"
+    },
+    {
+      "id": "HEERA-0172",
+      "control_id": "HEERA-0172",
+      "name": "Esmalte em Gel Viziata Bellissima 038",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0172.webp",
+      "source_file_id": "12FVc9h1BJQ5AzWFSHsc3uGE407WLKWHS",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-038-.jpg"
+    },
+    {
+      "id": "HEERA-0173",
+      "control_id": "HEERA-0173",
+      "name": "Esmalte em Gel Viziata Bellissima 037",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0173.webp",
+      "source_file_id": "1NaqveZa6IDUU1LRWh1a3LzLnag1_ri_J",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-037-.jpg"
+    },
+    {
+      "id": "HEERA-0174",
+      "control_id": "HEERA-0174",
+      "name": "Esmalte em Gel Viziata Bellissima 035",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0174.webp",
+      "source_file_id": "1oGzLj-XU3XAeecwFLY9wv44pDY-yZL0H",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-035-.jpg"
+    },
+    {
+      "id": "HEERA-0175",
+      "control_id": "HEERA-0175",
+      "name": "Esmalte em Gel Viziata Bellissima 034",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0175.webp",
+      "source_file_id": "1fms1iZdzmVN-rldsSOkUYNajZgqAL7LU",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-034-.jpg"
+    },
+    {
+      "id": "HEERA-0176",
+      "control_id": "HEERA-0176",
+      "name": "Esmalte em Gel Viziata Bellissima 033",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0176.webp",
+      "source_file_id": "1Bcv5RjmoF2423-DfzipIYCntkgQygugE",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-033-.jpg"
+    },
+    {
+      "id": "HEERA-0177",
+      "control_id": "HEERA-0177",
+      "name": "Esmalte em Gel Viziata Bellissima 032",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0177.webp",
+      "source_file_id": "1fsCM4Bbmc_S03R_cfY3L0CgpTi0nKlo5",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-032-.jpg"
+    },
+    {
+      "id": "HEERA-0178",
+      "control_id": "HEERA-0178",
+      "name": "Esmalte em Gel Viziata Bellissima 031",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0178.webp",
+      "source_file_id": "1B9Jd1usW-hbDhshNmrP_3lx3fMCr1P2a",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-031-.jpg"
+    },
+    {
+      "id": "HEERA-0179",
+      "control_id": "HEERA-0179",
+      "name": "Esmalte em Gel Viziata Bellissima 030",
+      "brand": "Viziata",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0179.webp",
+      "source_file_id": "1TzzHiKy0H3FbgnLMhpj4ehzHv9ac4Q8X",
+      "source_file_name": "esmalte-em-gel-viziata-nails-coleção-bellissima-030-.jpg"
+    },
+    {
+      "id": "HEERA-0180",
+      "control_id": "HEERA-0180",
+      "name": "Gel Capa Base Nails 21 OneFix Pink Suave 12ml",
+      "brand": "Nails 21",
+      "category": "Bases em gel",
+      "image": "assets/imagens/produtos/heera-0180.webp",
+      "source_file_id": "1cFkLy2bkheRE5uTj8E0mbxm7MFD4lJF0",
+      "source_file_name": "Onefix - Pink Suave (4).jpg"
+    },
+    {
+      "id": "HEERA-0181",
+      "control_id": "HEERA-0181",
+      "name": "Top Coat Nails 21 Mirror Shine Clear 12ml",
+      "brand": "Nails 21",
+      "category": "Finalizadores",
+      "image": "assets/imagens/produtos/heera-0181.webp",
+      "source_file_id": "1VB_BFF8vWzEy0jol6BvBRvmvrAAgXehz",
+      "source_file_name": "Mirror Shine - Clear (5).jpg"
+    },
+    {
+      "id": "HEERA-0182",
+      "control_id": "HEERA-0182",
+      "name": "Esmalte em Gel Nails 21 Burlesque 301 12ml",
+      "brand": "Nails 21",
+      "category": "Esmaltes & bases",
+      "image": "assets/imagens/produtos/heera-0182.webp",
+      "source_file_id": "1GBa-BvQ4238hVrgr-cmI-JSPzCak_ezQ",
+      "source_file_name": "EC301 (5).jpg"
+    },
+    {
+      "id": "HEERA-0183",
+      "control_id": "HEERA-0183",
+      "name": "Gel Capa Base Nails 21 OneFix Milky 12ml",
+      "brand": "Nails 21",
+      "category": "Bases em gel",
+      "image": "assets/imagens/produtos/heera-0183.webp",
+      "source_file_id": "186FYfzUvrEvvDWsY-UtbTzenhr3CNfNC",
+      "source_file_name": "Onefix Milky (5).jpg"
+    },
+    {
+      "id": "HEERA-0184",
+      "control_id": "HEERA-0184",
+      "name": "Gel Capa Base Nails 21 OneFix Clear 12ml",
+      "brand": "Nails 21",
+      "category": "Bases em gel",
+      "image": "assets/imagens/produtos/heera-0184.webp",
+      "source_file_id": "1noxTBlz2WVAIYmaBCGoMUXeUaOpty8QL",
+      "source_file_name": "Onefix Clear (5).jpg"
+    },
+    {
+      "id": "HEERA-0185",
+      "control_id": "HEERA-0185",
+      "name": "Promotor Nails 21 12ml",
+      "brand": "Nails 21",
+      "category": "Preparadores",
+      "image": "assets/imagens/produtos/heera-0185.webp",
+      "source_file_id": "1Tr9Uwpmv1AVfDuLTNS1DL_-w7yV5BFUi",
+      "source_file_name": "Promotor  (2).jpg"
+    },
+    {
+      "id": "HEERA-0186",
+      "control_id": "HEERA-0186",
+      "name": "Gel Capa Base Nails 21 OneFix Magic Pink 12ml",
+      "brand": "Nails 21",
+      "category": "Bases em gel",
+      "image": "assets/imagens/produtos/heera-0186.webp",
+      "source_file_id": "1z4K_4dv-0xFto387JLo-av-GIp3vkFjB",
+      "source_file_name": "Onefix Capa Base - Magic Pink - 12ml (3).jpg"
+    },
+    {
+      "id": "HEERA-0187",
+      "control_id": "HEERA-0187",
+      "name": "Sanitizer Nails 21 Menta 120ml",
+      "brand": "Nails 21",
+      "category": "Higienização",
+      "image": "assets/imagens/produtos/heera-0187.webp",
+      "source_file_id": "1r1TdtOKqRstRtJGvZ4Sby40TZgkvn79y",
+      "source_file_name": "Sanitizer Menta 120ml (1).jpg"
+    },
+    {
+      "id": "HEERA-0188",
+      "control_id": "HEERA-0188",
+      "name": "Alicate de Cutícula Mundial 777",
+      "brand": "Mundial",
+      "category": "Ferramentas & acessórios",
+      "image": "assets/imagens/produtos/heera-0188.webp",
+      "source_file_id": "1RAQRvFk7HXbiVIcIz4_7UKrqG-SBMWw5",
+      "source_file_name": "Alicate_Mundial_777_800x800.jpg"
+    },
+    {
+      "id": "HEERA-0189",
+      "control_id": "HEERA-0189",
+      "name": "Coletor de Pó para Unhas",
+      "brand": "Não identificada",
+      "category": "Equipamentos",
+      "image": "assets/imagens/produtos/heera-0189.webp",
+      "source_file_id": "1MwxgMRESGveukM2YdBsvKDl9UsTqcj-V",
+      "source_file_name": "Coletor (5).jpg"
+    }
+  ]
+}
