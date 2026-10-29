@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-29",
+  "rule": "Tipo + marca + linha + cor/modelo/código + volume/tamanho. Informações ausentes não inferidas.",
+  "products": [
+    {
+      "control_id": "HEERA-0001",
+      "catalog_id": "58271078063",
+      "original_name": "Gel Construtor Nails 21 Natural Elegante Cover 25g Gel Estático Efeito Mousse para Unhas",
+      "name": "Gel Construtor Nails 21 Natural Elegante Cover 25g",
+      "description": "Gel estático com efeito mousse para unhas."
+    },
+    {
+      "control_id": "HEERA-0002",
+      "catalog_id": "58221054819",
+      "original_name": "Gel Construtor Nails 21 Natural Baby Pink 25g Gel Estático Efeito Mousse para Unhas",
+      "name": "Gel Construtor Nails 21 Natural Baby Pink 25g",
+      "description": "Gel estático com efeito mousse para unhas."
+    },
+    {
+      "control_id": "HEERA-0003",
+      "catalog_id": "58271085272",
+      "original_name": "Gel Construtor Nails 21 Natural Nude Perfeito 25g Gel Estático Efeito Mousse para Unhas",
+      "name": "Gel Construtor Nails 21 Natural Nude Perfeito 25g",
+      "description": "Gel estático com efeito mousse para unhas."
+    },
+    {
+      "control_id": "HEERA-0004",
+      "catalog_id": "58271081427",
+      "original_name": "Gel Construtor Nails 21 Strong Maskara 34g Alta Viscosidade para Alongamento de Unhas",
+      "name": "Gel Construtor Nails 21 Strong Maskara 34g",
+      "description": "Alta viscosidade para alongamento de unhas."
+    },
+    {
+      "control_id": "HEERA-0005",
+      "catalog_id": "22895389199",
+      "original_name": "Gel Construtor Nails 21 Strong Natural 34g Alta Viscosidade para Alongamento de Unhas",
+      "name": "Gel Construtor Nails 21 Strong Natural 34g",
+      "description": "Alta viscosidade para alongamento de unhas."
+    },
+    {
+      "control_id": "HEERA-0006",
+      "catalog_id": "58221055870",
+      "original_name": "Gel Construtor Nails 21 Strong Nude Rose 34g Alta Viscosidade para Alongamento de Unhas",
+      "name": "Gel Construtor Nails 21 Strong Nude Rose 34g",
+      "description": "Alta viscosidade para alongamento de unhas."
+    },
+    {
+      "control_id": "HEERA-0007",
+      "catalog_id": "23395382323",
+      "original_name": "Base Esmalte em Gel Viziata 001 Transparente Incolor 15ml",
+      "name": "Base em Gel Viziata 001 Transparente Incolor 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0008",
+      "catalog_id": "58270725001",
+      "original_name": "Esmalte em Gel Viziata Nails Delicato 059 Marrom 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Delicato 059 Marrom 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0009",
+      "catalog_id": "58219108630",
+      "original_name": "Tesoura de Cutícula Staleks Pro Smart 40 SS-40-3 Profissional Curva 25mm",
+      "name": "Tesoura de Cutícula Staleks Pro Smart 40 SS-40-3 Curva 25mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0010",
+      "catalog_id": "22095302779",
+      "original_name": "Alicate de Cutícula Staleks Pro Smart 100 NS-100-9L Profissional Lâmina 9mm",
+      "name": "Alicate de Cutícula Staleks Pro Smart 100 NS-100-9L Lâmina 9mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0011",
+      "catalog_id": "58269204597",
+      "original_name": "Pinça para Cílios Staleks Pro TE-40-12 Expert 40 Ângulo 65° para Volume 125 mm",
+      "name": "Pinça para Cílios Staleks Pro Expert 40 TE-40-12 Ângulo 65° para Volume 125mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0012",
+      "catalog_id": "58269141036",
+      "original_name": "Pinça de Sobrancelha Staleks Pro TE-10-7 Expert 10 Inclinada e Pontiaguda",
+      "name": "Pinça de Sobrancelha Staleks Pro Expert 10 TE-10-7 Inclinada e Pontiaguda",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0013",
+      "catalog_id": "58219164339",
+      "original_name": "Pinça para Cílios Staleks Pro TE-40-11 Expert 40 Curvada para Isolamento 125 mm",
+      "name": "Pinça para Cílios Staleks Pro Expert 40 TE-40-11 Curvada para Isolamento 125mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0014",
+      "catalog_id": "58269308355",
+      "original_name": "Luva de Látex Preta Unigloves Clássico Black com Pó 100 Unidades – Tamanho M",
+      "name": "Luva de Látex UniGloves Clássico Black com Pó — M — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0015",
+      "catalog_id": "58219332050",
+      "original_name": "Luva Nitrílica Preta Unigloves Nitrilo Black Sem Pó 100 Unidades – Tamanho G",
+      "name": "Luva Nitrílica UniGloves Nitrilo Black Sem Pó — G — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0016",
+      "catalog_id": "58219305739",
+      "original_name": "Luva Nitrílica Preta Unigloves Nitrilo Black Sem Pó 100 Unidades – Tamanho M",
+      "name": "Luva Nitrílica UniGloves Nitrilo Black Sem Pó — M — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0017",
+      "catalog_id": "58219304481",
+      "original_name": "Luva de Látex Rosa Unigloves Clássico Pink com Pó 100 Unidades – Tamanho P",
+      "name": "Luva de Látex UniGloves Clássico Pink com Pó — P — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0018",
+      "catalog_id": "58219304077",
+      "original_name": "Luva de Látex Preta Unigloves Clássico Black com Pó 100 Unidades – Tamanho G",
+      "name": "Luva de Látex UniGloves Clássico Black com Pó — G — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0019",
+      "catalog_id": "58219299521",
+      "original_name": "Luvas UniGloves Clássico Black com Pó Tamanho P Látex Preto 100 Unidades",
+      "name": "Luva de Látex UniGloves Clássico Black com Pó — P — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0020",
+      "catalog_id": "58270730876",
+      "original_name": "Esmalte em Gel Magnético Viziata Nails Illuminatum 140 15ml Efeito Cat Eyes Olho de Gato",
+      "name": "Esmalte em Gel Magnético Viziata Illuminatum 140 Efeito Cat Eyes 15ml",
+      "description": "Efeito Cat Eyes (olho de gato)."
+    },
+    {
+      "control_id": "HEERA-0021",
+      "catalog_id": "58220629962",
+      "original_name": "Esmalte em Gel Viziata Nails Latte 042 Leitoso Lilás Suave 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Latte 042 Leitoso Lilás Suave 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0022",
+      "catalog_id": "58270732507",
+      "original_name": "Esmalte em Gel Profissional Viziata Nails Smalto Gel Ragazza Collezione 15 ml Cor 104",
+      "name": "Esmalte em Gel Viziata Ragazza 104 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0023",
+      "catalog_id": "58220964533",
+      "original_name": "Gel Construtor Nails 21 Insígnia Maskara 34g Autonivelante Viscosidade Média + 1m Fibra",
+      "name": "Gel Construtor Nails 21 Insígnia Maskara 34g + 1m de Fibra",
+      "description": "Autonivelante de viscosidade média. Acompanha 1m de fibra."
+    },
+    {
+      "control_id": "HEERA-0024",
+      "catalog_id": "58270705322",
+      "original_name": "Esmalto em Gel Viziata Nails Smalto Gel RAGAZZA 104 15 ml Uso Profissional",
+      "name": "Esmalte em Gel Viziata Ragazza 104 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0025",
+      "catalog_id": "58220704604",
+      "original_name": "Esmalte em Gel Viziata Nails Cioccolato 116 Nude Marrom Rosado 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Cioccolato 116 Nude Marrom Rosado 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0026",
+      "catalog_id": "58220640738",
+      "original_name": "Esmalte em Gel Viziata Nails Cioccolato 110 Nude Rosado Cremoso 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Cioccolato 110 Nude Rosado Cremoso 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0027",
+      "catalog_id": "22995388553",
+      "original_name": "Esmalte em Gel Viziata Nails Delicato Collezione 058 Preto 15 ml",
+      "name": "Esmalte em Gel Viziata Delicato 058 Preto 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0028",
+      "catalog_id": "58220964007",
+      "original_name": "Gel Construtor Nails 21 Insígnia Natural 34g Autonivelante Base e Construção + 1m Fibra",
+      "name": "Gel Construtor Nails 21 Insígnia Natural 34g + 1m de Fibra",
+      "description": "Autonivelante para base e construção. Acompanha 1m de fibra."
+    },
+    {
+      "control_id": "HEERA-0029",
+      "catalog_id": "58270990039",
+      "original_name": "Gel Construtor Nails 21 Insígnia Nude Rosé 34g Autonivelante Viscosidade Média + 1m Fibra",
+      "name": "Gel Construtor Nails 21 Insígnia Nude Rosé 34g + 1m de Fibra",
+      "description": "Autonivelante de viscosidade média. Acompanha 1m de fibra."
+    },
+    {
+      "control_id": "HEERA-0030",
+      "catalog_id": "58270697568",
+      "original_name": "Esmalte em Gel Viziata Nails Latte 049 Leitoso Claro 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Latte 049 Leitoso Claro 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0031",
+      "catalog_id": "58220590150",
+      "original_name": "Esmalte em Gel Viziata Nails Gelato 065 Cintilante Transparente 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Gelato 065 Cintilante Transparente 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0032",
+      "catalog_id": "58220579709",
+      "original_name": "Esmalte em Gel Viziata Nails Lusso 130 Glitter Prateado Cinza 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Lusso 130 Glitter Prateado Cinza 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0033",
+      "catalog_id": "58220572991",
+      "original_name": "Esmalte em Gel Viziata Nails Rubber 007 Renda Transparente com Glitter 15ml Blindagem e Alinhamento",
+      "name": "Esmalte em Gel Viziata Rubber 007 Renda Transparente com Glitter 15ml",
+      "description": "Para blindagem e alinhamento."
+    },
+    {
+      "control_id": "HEERA-0034",
+      "catalog_id": "58220703718",
+      "original_name": "Esmalte em Gel Viziata Nails Ragazza 099 Vinho 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Ragazza 099 Vinho 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0035",
+      "catalog_id": "58220707166",
+      "original_name": "Esmalte em Gel Viziata Nails Ragazza 100 Ameixa Roxo Escuro 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Ragazza 100 Ameixa Roxo Escuro 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0036",
+      "catalog_id": "58220682775",
+      "original_name": "Esmalte em Gel Viziata Nails Macarons 156 Lilás Pastel Cremoso 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Macarons 156 Lilás Pastel Cremoso 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0037",
+      "catalog_id": "58270698169",
+      "original_name": "Esmalte Em Gel Viziata Ragazza 107 Para Profissionais Com Pincel De Fácil Controle E Remoção Rápida",
+      "name": "Esmalte em Gel Viziata Ragazza 107",
+      "description": "Para profissionais, com pincel de fácil controle e remoção rápida."
+    },
+    {
+      "control_id": "HEERA-0038",
+      "catalog_id": "58220574671",
+      "original_name": "Esmalte em Gel Viziata Nails Cioccolato 117 Marrom com Fundo Vinho 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Cioccolato 117 Marrom com Fundo Vinho 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0039",
+      "catalog_id": "58270729390",
+      "original_name": "Esmalte em Gel Viziata Nails Cioccolato 110 Nude Claro Rosado 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Cioccolato 110 Nude Claro Rosado 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0040",
+      "catalog_id": "58270703451",
+      "original_name": "Esmalte em Gel Viziata Nails Ragazza 101 Vinho Escuro Cintilante 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Ragazza 101 Vinho Escuro Cintilante 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0041",
+      "catalog_id": "58270611343",
+      "original_name": "Esmalte em Gel Viziata Nails Lusso 137 Rosa Antigo com Glitter 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Lusso 137 Rosa Antigo com Glitter 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0042",
+      "catalog_id": "58220633017",
+      "original_name": "Esmalte em Gel Viziata Nails Latte 041 Branco Cremoso 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Latte 041 Branco Cremoso 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0043",
+      "catalog_id": "58270599030",
+      "original_name": "Esmalte em Gel Viziata Nails Amazonia 123 Vermelho 15ml Profissional para Unhas",
+      "name": "Esmalte em Gel Viziata Amazonia 123 Vermelho 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0044",
+      "catalog_id": "58220703305",
+      "original_name": "Esmalte em Gel Profissional Viziata Nails Smalto Gel Bambina Collezione Cor 070 15ml",
+      "name": "Esmalte em Gel Viziata Bambina 070 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0045",
+      "catalog_id": "58220576956",
+      "original_name": "Base Rubber Gel Viziata Nails 008 com Glitter 15ml Esmalte em Gel para Blindagem e Alinhamento",
+      "name": "Base Rubber Gel Viziata 008 com Glitter 15ml",
+      "description": "Para blindagem e alinhamento."
+    },
+    {
+      "control_id": "HEERA-0046",
+      "catalog_id": "58220577571",
+      "original_name": "Esmalte em Gel Viziata Nails Dolce 023 Pink Rosa 15ml Profissional para Unhas",
+      "name": "Esmalte em Gel Viziata Dolce 023 Pink Rosa 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0047",
+      "catalog_id": "58270602510",
+      "original_name": "Esmalte em Gel Viziata Nails Dolce 024 Rosa Pink Intenso 15ml Profissional para Unhas",
+      "name": "Esmalte em Gel Viziata Dolce 024 Rosa Pink Intenso 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0048",
+      "catalog_id": "58219118177",
+      "original_name": "Alicate de Cutícula Staleks Pro Smart 10 NS-10-7 7mm Profissional Aço Inox",
+      "name": "Alicate de Cutícula Staleks Pro Smart 10 NS-10-7 7mm Aço Inox",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0049",
+      "catalog_id": "58220573798",
+      "original_name": "Base Rubber Gel Viziata Nails 006 Nude 15ml Esmalte em Gel para Blindagem e Alinhamento",
+      "name": "Base Rubber Gel Viziata 006 Nude 15ml",
+      "description": "Para blindagem e alinhamento."
+    },
+    {
+      "control_id": "HEERA-0050",
+      "catalog_id": "58219120317",
+      "original_name": "Espátula de Cutícula Staleks Pro PS-50-2 Smart 50 Empurrador e Removedor Aço Inox",
+      "name": "Espátula de Cutícula Staleks Pro Smart 50 PS-50-2 Empurrador e Removedor Aço Inox",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0051",
+      "catalog_id": "58219299008",
+      "original_name": "Luva de Procedimento UniGloves Clássico Pink Rosa com Pó Tamanho EP – Caixa com 100 Unidades",
+      "name": "Luva de Látex UniGloves Clássico Pink com Pó — EP — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0052",
+      "catalog_id": "58219203294",
+      "original_name": "Luva de Látex Rosa UniGloves Clássico Pink com Pó Tamanho M Caixa 100 Unidades",
+      "name": "Luva de Látex UniGloves Clássico Pink com Pó — M — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0053",
+      "catalog_id": "58269208501",
+      "original_name": "Pinça de Sobrancelha Staleks Pro TE-11-5 Rosa Expert Ponta Fina 95 mm",
+      "name": "Pinça de Sobrancelha Staleks Pro Expert TE-11-5 Rosa Ponta Fina 95mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0054",
+      "catalog_id": "58219113685",
+      "original_name": "Tesoura de Cutícula Staleks Pro Expert 50 SE-50-1 Ponta em Gancho Profissional",
+      "name": "Tesoura de Cutícula Staleks Pro Expert 50 SE-50-1 Ponta em Gancho",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0055",
+      "catalog_id": "58269141479",
+      "original_name": "Pinça de Sobrancelha Staleks Pro TE-11-4 Expert Rosa Chanfrada Estreita 95 mm",
+      "name": "Pinça de Sobrancelha Staleks Pro Expert TE-11-4 Rosa Chanfrada Estreita 95mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0056",
+      "catalog_id": "58219207416",
+      "original_name": "Luva de Látex Preta UniGloves Clássico Black com Pó Tamanho EP Caixa 100 Unidades",
+      "name": "Luva de Látex UniGloves Clássico Black com Pó — EP — 100 Unidades",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0057",
+      "catalog_id": "58269167835",
+      "original_name": "Pinça de Sobrancelha Staleks Pro TE-11-5b Expert Preta Ponta Fina 95 mm",
+      "name": "Pinça de Sobrancelha Staleks Pro Expert TE-11-5b Preta Ponta Fina 95mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0058",
+      "catalog_id": "58219127139",
+      "original_name": "Pinça de Sobrancelha Staleks Pro Expert 10/4 Chanfrada Estreita Aço Inox 95 mm",
+      "name": "Pinça de Sobrancelha Staleks Pro Expert 10/4 Chanfrada Estreita Aço Inox 95mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0059",
+      "catalog_id": "58269122776",
+      "original_name": "Tesoura de Cutícula Staleks Pro Expert 50 SE-50-2 Ponta em Gancho Profissional",
+      "name": "Tesoura de Cutícula Staleks Pro Expert 50 SE-50-2 Ponta em Gancho",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0060",
+      "catalog_id": "23195318079",
+      "original_name": "Pinça para Cílios Staleks Pro TE-41-2 Expert 41 Ângulo 40° Volume Russo",
+      "name": "Pinça para Cílios Staleks Pro Expert 41 TE-41-2 Ângulo 40° Volume Russo",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0061",
+      "catalog_id": "23899769528",
+      "original_name": "Espátula para Cutícula Staleks Pro PE-90-2 Expert 90 Dupla Ponta Aço Inox 150 mm",
+      "name": "Espátula de Cutícula Staleks Pro Expert 90 PE-90-2 Dupla Ponta Aço Inox 150mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0062",
+      "catalog_id": "baseinoxparalixarefilstaleksprombe20expert20retalonga162x19mm",
+      "original_name": "Base Inox para Lixa Refil Staleks Pro MBE-20 Expert 20 Reta Longa 162 x 19 mm",
+      "name": "Base Inox para Lixa Refil Staleks Pro Expert 20 MBE-20 Reta Longa 162 x 19mm",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0063",
+      "catalog_id": "refillixaemrolostalekspropapmam240grit7matsc240wsemestojo",
+      "original_name": "Refil Lixa em Rolo Staleks Pro papmAm 240 Grit 7m ATSC-240w Sem Estojo",
+      "name": "Refil Lixa em Rolo Staleks Pro papmAm 240 Grit 7m ATSC-240w Sem Estojo",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0064",
+      "catalog_id": "lixaadesivaemrolostaleksproat180w180grit7mcomestojo",
+      "original_name": "Lixa Adesiva em Rolo Staleks Pro AT-180w 180 Grit 7m com Estojo",
+      "name": "Lixa Adesiva em Rolo Staleks Pro AT-180w 180 Grit 7m com Estojo",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0065",
+      "catalog_id": "esmalteemgelviziatanailsragazza090vermelhocremoso15mlprofissional",
+      "original_name": "Esmalte em Gel Viziata Nails Ragazza 090 Vermelho Cremoso 15ml Profissional",
+      "name": "Esmalte em Gel Viziata Ragazza 090 Vermelho Cremoso 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0066",
+      "catalog_id": "esmalteemgelviziatanailsmacarons152amarelopastel15mlprofissionalparaunhas",
+      "original_name": "Esmalte em Gel Viziata Nails Macarons 152 Amarelo Pastel 15ml Profissional para Unhas",
+      "name": "Esmalte em Gel Viziata Macarons 152 Amarelo Pastel 15ml",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0067",
+      "catalog_id": "baserubbergelviziatanails009rosacomglitter15mlesmalteemgelparablindagemealinhamento",
+      "original_name": "Base Rubber Gel Viziata Nails 009 Rosa com Glitter 15ml Esmalte em Gel para Blindagem e Alinhamento",
+      "name": "Base Rubber Gel Viziata 009 Rosa com Glitter 15ml",
+      "description": "Para blindagem e alinhamento."
+    },
+    {
+      "control_id": "HEERA-0068",
+      "catalog_id": "refillixaemrolostalekspropapmam180grit7matsc180wsemestojo",
+      "original_name": "Refil Lixa em Rolo Staleks Pro papmAm 180 Grit 7m ATSC-180w Sem Estojo",
+      "name": "Refil Lixa em Rolo Staleks Pro papmAm 180 Grit 7m ATSC-180w Sem Estojo",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0069",
+      "catalog_id": "lixarefilemrolostalekspropapmam240grit7matc240wcomestojo",
+      "original_name": "Lixa Refil em Rolo Staleks Pro papmAm 240 Grit 7m ATC-240w Com Estojo",
+      "name": "Lixa Refil em Rolo Staleks Pro papmAm 240 Grit 7m ATC-240w Com Estojo",
+      "description": ""
+    },
+    {
+      "control_id": "HEERA-0070",
+      "catalog_id": "esmalteemgelviziatadelicato052paraprofissionaiscompinceldefácilcontroleeremoçãorápida",
+      "original_name": "Esmalte Em Gel Viziata Delicato 052 Para Profissionais Com Pincel De Fácil Controle E Remoção Rápida",
+      "name": "Esmalte em Gel Viziata Delicato 052",
+      "description": "Para profissionais, com pincel de fácil controle e remoção rápida."
+    },
+    {
+      "control_id": "HEERA-0071",
+      "catalog_id": "pinçaparasobrancelhastaleksprote105expert10pontafinaaçoinox95mm",
+      "original_name": "Pinça para Sobrancelha Staleks Pro TE-10-5 Expert 10 Ponta Fina Aço Inox 95 mm",
+      "name": "Pinça de Sobrancelha Staleks Pro Expert 10 TE-10-5 Ponta Fina Aço Inox 95mm",
+      "description": ""
+    }
+  ]
+}
